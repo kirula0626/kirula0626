@@ -1,5 +1,5 @@
 <h1 align="center">
- 👋 Hi there! I'm Kirula Nanayakkara!
+ 👋 Hi there!
  </h1>
 
 🎓 Currently pursuing dual degrees in Cyber Security at SLIIT and Applied Science at the University of Sri Jayewardenepura, I bring a unique, dual-disciplinary perspective to the world of technology.
