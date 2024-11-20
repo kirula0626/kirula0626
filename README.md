@@ -4,7 +4,7 @@
 
 🎓 Currently pursuing dual degrees in Cyber Security at SLIIT and Applied Science at the University of Sri Jayewardenepura, I bring a unique, dual-disciplinary perspective to the world of technology.
 
-💻 With hands-on experience in hacking, Linux, web security, and Network work Security. I'm passionate about solving complex security problems efficiently.
+💻 With hands-on experience in  Linux, web security, and Networking and Network Security. I'm passionate about solving complex security problems efficiently.
 
 🚀 Beyond technical skills, I have proven leadership and project management abilities, excelling in collaborative team environments. 🌟 My diverse educational background and practical experience make me a well-rounded candidate for dynamic, solution-oriented roles in the tech industry.
 
